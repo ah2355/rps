@@ -112,7 +112,7 @@ function game()
     }
     else
     {
-        return 'You Tied!';
+        return ' Game Over! You Tied!';
     }
 }
 
